@@ -7,5 +7,5 @@
 
 - TECHNOLOGY USED - Artificial Neural Networks, Python, Deep Learning
 - PROJECT TYPE - Individual
-![image](https://github.com/divyanshsahu2020/Bank-Customer-Satisfaction-/assets/80671629/330bd502-83a1-4a99-93d8-bbd44425f4eb)
+
 
