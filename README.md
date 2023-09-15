@@ -5,7 +5,8 @@
 - OUTPUT - The output column, churn, uses binary digits to predict whether the customer is satisfied or not, i.e., 1 indicates that the client has left the bank, whereas, 0 indicates he/she has not.
            The supervised predictive model has an accuracy of 89%.
 
-- TECHNOLOGY USED - Artificial Neural Networks, Python, Deep Learning
+- TECHNOLOGY USED - Artificial Neural Networks, Python, Deep Learning, Natural Language Processing
+  
 - PROJECT TYPE - Individual
 
 
